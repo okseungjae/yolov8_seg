@@ -1,0 +1,31 @@
+path: ./ 
+train: ./training/images 
+val: ./validation/images 
+test: ./test/images 
+
+# Classes
+names:
+  0: road
+  1: sidewalk
+  2: road roughness
+  3: road boundaries
+  4: crosswalks
+  5: lane
+  6: road color guide
+  7: road marking
+  8: parking
+  9: traffic sign
+  10: traffic light
+  11: pole/structural object
+  12: building
+  13: tunnel
+  14: bridge
+  15: pedestrian
+  16: vehicle
+  17: bicycle
+  18: motorcycle
+  19: personal mobility
+  20: dynamic
+  21: vegetation
+  22: sky
+  23: static
